@@ -29,7 +29,7 @@ UIKit, Swift, MVC architecture, Firebase, Alamofire, Core Data (MagicalRecord), 
 
 ### Ala Eny
 The AlaEny app for merchants and suppliers allows users to manage product prices, availability, categories, and working hours. Users can accept/reject orders, track complaints, communicate with app management, and view financial dues and invoices.  
-📱 [View on App Store]((https://apps.apple.com/il/app/%D8%B9%D9%84%D9%89-%D8%B9%D9%8A%D9%86%D9%8A/id1490232351))
+📱 [View on App Store](https://apps.apple.com/il/app/%D8%B9%D9%84%D9%89-%D8%B9%D9%8A%D9%86%D9%8A/id1490232351)
 
 **Role & Contributions:**  
 - Worked on **two types of applications**: one for end-users (customers) and another for businesses (merchants/suppliers).  
