@@ -8,7 +8,7 @@ Experienced iOS Developer with 4+ years delivering **15+ high-performance produc
 
 ### **1️⃣ UTask**
 _Task & project management app for professionals and teams_  
-📱 [View on App Store](#https://apps.apple.com/us/app/utask/id1662343072)) • ⭐️ 5.0 rating  
+📱 [View on App Store](https://apps.apple.com/us/app/utask/id1662343072) • ⭐️ 5.0 rating  
 
 **Role & Contributions:**  
 - Built Tab Bar, Navigation, and Side Menu  
@@ -25,7 +25,7 @@ _Task & project management app for professionals and teams_
 
 ### **2️⃣ Fasih (فصيح)**
 _Educational app for a school in Turkey with live lessons and digital content_  
-📱 [View on App Store](#https://apps.apple.com/us/app/fasih-%D9%81%D8%B5%D9%8A%D8%AD/id1570617987) • ⭐️ 4.3 rating  
+📱 [View on App Store](https://apps.apple.com/us/app/fasih-%D9%81%D8%B5%D9%8A%D8%AD/id1570617987) • ⭐️ 4.3 rating  
 
 **Role & Contributions:**  
 - Delivered client-requested updates on schedule and collaborated with the web team  
@@ -42,7 +42,7 @@ _Educational app for a school in Turkey with live lessons and digital content_
 
 ### **3️⃣ AlaEny (على عيني)**
 _Merchant & customer app for managing products, orders, payments, and invoices_  
-📱 [View on App Store](#https://apps.apple.com/il/app/%D8%B9%D9%84%D9%89-%D8%B9%D9%8A%D9%86%D9%8A-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/id1668132769)  
+📱 [View on App Store](https://apps.apple.com/il/app/%D8%B9%D9%84%D9%89-%D8%B9%D9%8A%D9%86%D9%8A-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/id1668132769)  
 
 **Role & Contributions:**  
 - Worked on both customer and merchant apps  
