@@ -42,7 +42,8 @@ _Educational app for a school in Turkey with live lessons and digital content_
 
 ### **3️⃣ AlaEny (على عيني)**
 _Merchant & customer app for managing products, orders, payments, and invoices_  
-📱 [View on App Store](https://apps.apple.com/il/app/%D8%B9%D9%84%D9%89-%D8%B9%D9%8A%D9%86%D9%8A-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/id1668132769)  
+📱 [View Merchant on App Store](https://apps.apple.com/il/app/%D8%B9%D9%84%D9%89-%D8%B9%D9%8A%D9%86%D9%8A-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/id1668132769)  
+📱 [View Customer on App Store](https://apps.apple.com/il/app/%D8%B9%D9%84%D9%89-%D8%B9%D9%8A%D9%86%D9%8A/id1490232351)
 
 **Role & Contributions:**  
 - Worked on both customer and merchant apps  
