@@ -1,6 +1,6 @@
 # iOS Developer 📱
 
-**5+ years** building production iOS apps | Delivered **15+** High-Performance Apps | Swift & UIKit expert | Experienced in SwiftUI
+**4+ years** building production iOS apps | Delivered **15+** High-Performance Apps | Swift & UIKit expert | Experienced in SwiftUI
 
 Experienced iOS Developer specializing in scalable architecture, performance optimization, and shipping reliable production apps. Recognized as an **Ideal Employee** for exceptional contributions, ensuring **99% uptime** across live projects, and resolving **10+ critical crashes** in production environments.
 
